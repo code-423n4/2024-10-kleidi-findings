@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Kleidi Audit
 
 Audit findings are submitted to this repo.
 
